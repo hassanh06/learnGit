@@ -1,0 +1,27 @@
+package basic;
+
+public class HomeWork1 {
+	public static void main(String[] args) {
+
+		
+		String a="Arib";
+		String b="Elhacen";
+		String c="NY";
+		String p= "car";
+		int d=10;
+		int e=5;
+		int f=d*e;
+		
+		System.out.println("First Name :" + " " +b);
+		System.out.println("Last Name :"+" "+a);
+		System.out.println("Adress :"+" "+c);
+		System.out.println("Product Name :"+" "+p);
+		System.out.println("Price U :"+" "+"$"+d);
+		System.out.println("Quantity :"+" "+e);
+		System.out.println("Total Price :"+" "+f);
+				
+		
+	}		
+
+}  
+
